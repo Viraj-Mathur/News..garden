@@ -1,2 +1,2 @@
-# News..garden
+# SupEarth!
 Website for global news
